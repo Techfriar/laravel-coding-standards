@@ -10,7 +10,7 @@
 - [Comments](./comments/comment.md)
 - [Developer Testing](./developer-testing/developer-testing.md)
 - [Debugging](./debugging/debugging.md)
-- [Configuration](./configuration/configuration .md)
+- [Configuration](./configuration/configuration.md)
 - [Release Note](./release-note/release-note.md)
 - [Deployment](./deployment/deployment.md)
 - [Request]
