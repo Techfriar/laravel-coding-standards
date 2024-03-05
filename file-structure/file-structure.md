@@ -25,25 +25,25 @@ Root
       - Services
       - View
       - Repositories
-    - bootstrap
-    - config
-    - database
-      - migrations
-      - seeders
-      - factories
-    - mobules
-    - resources
-      - views
-      - css
-      - js
-    - routes
-      - web.php
-      - console.php
-      - channels.php
-    - storage
-    - tests
-    - vendor
-    - .env
-    - artisan
-    - composer.json
-    - package.json
+  - bootstrap
+  - config
+  - database
+    - migrations
+    - seeders
+    - factories
+  - mobules
+  - resources
+    - views
+    - css
+    - js
+  - routes
+    - web.php
+    - console.php
+    - channels.php
+  - storage
+  - tests
+  - vendor
+  - .env
+  - artisan
+  - composer.json
+  - package.json
