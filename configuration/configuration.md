@@ -1,7 +1,5 @@
 [<<Back](../README.md)
 
-# Laravel Configuration Guide
-
 # Laravel Sail Configuration Guide
 
 ## Prerequisites

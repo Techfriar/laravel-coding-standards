@@ -3,10 +3,10 @@
 
 ## Table of contents
 
-- [File Structure](./file_structure/file_structure.md)
+- [File Structure](./file-structure/file-structure.md)
 - [Naming](./naming/naming.md)
-- [Error Handling](./error_handling/error_handling.md)
-- [Comments](./comments/comment.md)
+- [Error Handling](./error-handling/error-handling.md)
+- [Comments](./comments/comments.md)
 - [Developer Testing](./developer-testing/developer-testing.md)
 - [Debugging](./debugging/debugging.md)
 - [Configuration](./configuration/configuration.md)
